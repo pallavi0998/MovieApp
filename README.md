@@ -1,5 +1,7 @@
 # MovieApp
 
+company name : CODTECH IT SOLUTIONS
+
 NAME : PALLAVI MHAISKAR
 
 INTERN ID : CT08JTR
