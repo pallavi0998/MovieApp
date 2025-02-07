@@ -78,3 +78,7 @@ Conclusion
 Developing this Movie App in React.js helped me enhance my frontend development skills, particularly in API integration, state management, and UI/UX design. The app provides a seamless movie search experience, making it easier for users to explore films and web series based on their interests.
 
 This project showcases the power of React.js in building scalable and interactive applications while ensuring a smooth user experience. 
+
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/d337eb22-ca14-4af0-9757-a2d4a22243d8)
